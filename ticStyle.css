@@ -1,0 +1,13 @@
+table,
+td {
+	width: 100px;
+	height: 100px;
+}
+.middle {
+	border-left: solid black 2px;
+	border-right: solid black 2px;
+}
+.second {
+	border-top: solid black 2px;
+	border-bottom: solid black 2px;
+}
