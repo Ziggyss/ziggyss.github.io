@@ -3,23 +3,18 @@ h1 {
 }
 
 table {
-	margin-left: 40%;
+	margin: auto;
 }
 td {
 	width: 100px;
 	height: 100px;
 }
 .middle {
-	border-left: solid black 2px;
-	border-right: solid black 2px;
+	border-left: solid black 1px;
+	border-right: solid black 1px;
 }
 .second {
-	border-top: solid black 2px;
-	border-bottom: solid black 2px;
+	border-top: solid black 1px;
+	border-bottom: solid black 1px;
 }
-#center {
-	border-left: solid black 2px;
-	border-right: solid black 2px;
-	border-top: solid black 2px;
-	border-bottom: solid black 2px;
-}
+
