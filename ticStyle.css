@@ -3,7 +3,7 @@ h1 {
 }
 
 table {
-	margin-left: 40%;
+	align-self: center;
 }
 td {
 	width: 100px;
