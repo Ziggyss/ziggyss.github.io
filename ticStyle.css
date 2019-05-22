@@ -15,3 +15,9 @@ td {
 	border-top: solid black 2px;
 	border-bottom: solid black 2px;
 }
+#center {
+	border-left: solid black 2px;
+	border-right: solid black 2px;
+	border-top: solid black 2px;
+	border-bottom: solid black 2px;
+}
