@@ -1,8 +1,10 @@
 h1 {
-	border-left: 50%
+	text-align: center;
 }
 
-
+table {
+	margin-left: 40%;
+}
 td {
 	width: 100px;
 	height: 100px;
