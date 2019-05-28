@@ -19,6 +19,9 @@ h1 {
 	font-weight: bold 700;
 	font-size: 2.0rem;
 }
+.post {
+	margin-bottom: 20px ;
+}
 
 .intro {
 	border-left: solid 5px #bdc3c7;
