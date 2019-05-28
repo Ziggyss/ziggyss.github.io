@@ -5,22 +5,23 @@ body {
 	border: solid 20px #bdc3c7;
 	padding: 20px;
 	font-family: 'Source Sans Pro';
-	font-weight: bold;
 	
+
 }
 h2 {
 	color: #3498db;
 	text-transform: uppercase;
 	font-size: 15px;
-	letter-spacing: 2px;
+	letter-spacing: 0.2rem;
 
 }
 h1 {
 	color: #2c3e50;
+	font-weight: bold 700;
 }
 
 .intro {
-	border-left: solid 3px #bdc3c7;
+	border-left: solid 5px #bdc3c7;
 	padding-left: 5px;
 }
 hr {
