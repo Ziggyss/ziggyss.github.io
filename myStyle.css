@@ -1,0 +1,30 @@
+#top {
+	padding-top: 50px;
+}
+
+.dropdown {
+	color: white;
+}
+
+.jumbotron {
+	background-color: #84b3c2;
+	color: #f3f4f6;
+	text-align: center;
+}
+.navbar-brand {
+	margin-left: 50px;
+}
+
+#navbarSupportedContent {
+	margin-left: 70%;
+}
+
+#mainContent {
+	border: solid 2px #7c7470;
+	text-align: center;
+	width: 40%;
+}
+
+body {
+	background-color: #f3f4f6;
+}
